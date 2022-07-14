@@ -1,0 +1,3 @@
+/Users/wujaelee/Documents/code/web/cpp/SDL2_ax^2+bx+c/build/CMakeFiles/A.dir
+/Users/wujaelee/Documents/code/web/cpp/SDL2_ax^2+bx+c/build/CMakeFiles/edit_cache.dir
+/Users/wujaelee/Documents/code/web/cpp/SDL2_ax^2+bx+c/build/CMakeFiles/rebuild_cache.dir
